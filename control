@@ -1,0 +1,9 @@
+Package: com.withertech.CydiaRespring
+Name: CydiaRespring
+Author: WitherTech
+Description: 
+Depends: mobilesubstrate
+Maintainer: WitherTech <witherking@withertech.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
